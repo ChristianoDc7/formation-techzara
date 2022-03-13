@@ -1,0 +1,15 @@
+{
+    "name": "christiano/php-d-2",
+    "autoload": {
+        "psr-4": {
+            "PhpD2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChristianoDc7",
+            "email": "christianod97@gmail.com"
+        }
+    ],
+    "require": {}
+}
